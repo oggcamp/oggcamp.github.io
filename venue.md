@@ -24,7 +24,7 @@ Below is a map with highlights of the important locations for OggCamp 17.
 On-Site is the University Food Court [[Map](http://w3w.co/transfers.foster.traded)] where you can get meals from around £5 (depending on staff availability - more details closer to the event)
 
 Between 10 and 15 minutes away from site are the following chains:
-* Subway [Map](http://w3w.co/courier.bucks.hired)]
+* Subway [[Map](http://w3w.co/courier.bucks.hired)]
 * McDonalds [[Map](http://w3w.co/filer.herds.mobile)]
 * Pret-a-Manger [[Map](http://w3w.co/dangerously.cars.kinds)]
 * Burger King [[Map](http://w3w.co/estate.tools.artist)]
