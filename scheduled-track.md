@@ -39,3 +39,15 @@ Saturday, Slot 6 and 7
 
 The rules of the Lightning talks are still to be defined, but are likely to be 5 minute talk slots. More details on the day!
 
+---
+Sunday, Slot 5
+
+# Building an Internet of Things Network Together
+## Daniel Knox from University of Kent Makerspace
+![Daniel Knox from University of Kent Makerspace]({{ site.url }}/assets/img/speakers/DanielKnox.jpg)
+
+The Internet of Things makes bold promises to improve our lives; however at its heart, communication is an unavoidable problem - if your home Wifi struggles to penetrate through-out your flat, what hope do we have getting Internet access in a field? The Things Network is a community effort that endeavours to resolve this by encouraging people to help develop the backbone that is required to support these devices. In this talk, we (The Shed) will introduce the protocol that underpins this network, LoRaWAN, and the devices that we have been building to help connect bring this network to Canterbury and the surrounding area.
+
+Daniel Knox spent much of his childhood in his grandad's workshop, where he learned how to make and build things; this ignited a life-long passion to enable children and adults of all ages to have the opportunity to engage with technology, engineering and craft.
+
+Daniel now manages the running of 'The Shed', an open access workshop within the School of Computing at the University of Kent that provides space and machinery for students to make and build things. In this space, he and his students have been inspired to build a wide variety of robots, drones that fly in formation, boats that autonomously navigate lakes and even a smart Lego city.
