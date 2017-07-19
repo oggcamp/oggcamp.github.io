@@ -24,7 +24,7 @@ Saturday, Slot 5
 
 # Make things open, it makes things better (which is the standard GDS mantra)
 ## Liz Lutgendorff from GDS
-![Liz Lutgendorff from GDS]({{ site.url }}/assets/img/speakers/LizLutgendorff.JPG)
+![Liz Lutgendorff from GDS]({{ site.url }}/assets/img/speakers/LizLutgendorff.jpg)
 
 One of the GDS design principles is about making things open. This includes open source 
 but also a culture of sharing what we're doing, what's worked and what hasn't worked. Partly 
