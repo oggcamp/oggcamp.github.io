@@ -6,13 +6,20 @@ As per previous years, OggCamp '17 will have a scheduled track, running alongsid
 Here are some details on some of the scheduled speakers we are looking forward to attending!
 
 ---
+Saturday, Slots 1 and 2
+
+# Exploits and our digital rights
+## Ian Hutchinson from IF
+![Ian Hutchinson from IF]({{ site.url }}/assets/img/speakers/IanHutchinson.jpg)
+
+Ian Hutchinson is a developer at IF, a design studio that works with teams to build digital services people trust. He explores socio-political challenges by making things and prototyping new interactions and experiences.
+
+---
 Saturday, Slots 3 and 4
 
 # Talk Title to be confirmed
 ## Richard Brown from SUSE
 ![Richard Brown from SUSE]({{ site.url }}/assets/img/speakers/RichardBrownHeadshot.jpg)
-
-Talk detail to be confirmed
 
 Richard Brown is from England but currently lives in Nuremberg in Germany, and is employed as a QA Engineer by
 SUSE, as well as Chairman of the openSUSE Project. Involved in openSUSE/SUSE since 2003, Richard has
