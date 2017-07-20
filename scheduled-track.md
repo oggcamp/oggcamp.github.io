@@ -6,7 +6,7 @@ As per previous years, OggCamp '17 will have a scheduled track, running alongsid
 Here are some details on some of the scheduled speakers we are looking forward to attending!
 
 ---
-Saturday, Slots 1 and 2
+Saturday, Slot 1
 
 # Exploits and our digital rights
 ## Ian Hutchinson from IF
