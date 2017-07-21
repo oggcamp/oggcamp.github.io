@@ -44,7 +44,15 @@ Saturday, Slot 6 and 7
 # Lightning Talks
 ## YOU!
 
-The rules of the Lightning talks are still to be defined, but are likely to be 5 minute talk slots. More details on the day!
+The only rule in the Lightning talks is: 5 minutes, 1 question. No more, no less. More details on the day!
+
+---
+Saturday, Slot 3 and 4
+
+# Matrix.org
+## Someone from the Matrix.org Team
+
+There are currently no firm details on who will be attending from Matrix.org, nor are there any firm details about what the subject will exactly be. BUT there will be someone from Matrix.org explaining what it is, and why it's awesome.
 
 ---
 Sunday, Slot 5
