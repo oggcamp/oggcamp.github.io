@@ -80,8 +80,10 @@ Daniel now manages the running of 'The Shed', an open access workshop within the
 ---
 Sunday, Slot 6
 
-# Mozilla Research Projects
+# Three ways to improve cat videos with the open web
 ## Diane Hosfelt from Mozilla
 ![Diane Hosfelt from Mozilla]({{ site.url }}/assets/img/speakers/DianeHosfelt.jpg)
+
+Mozilla's mission is to promote and foster the open web. As part of this, we're developing emerging technologies that will improve the web for everyone. Learn how projects like WebAssembly, Servo, and AV1 can transform your ~~cat video~~ web browsing experience!
 
 Diane Hosfelt is an engineer at Mozilla Research working on the Servo project. She studied at Johns Hopkins University, where she completed a Master's thesis on applications of machine learning to cryptography advised by Drs. Matt Green and Stephen Checkoway. After a brief stint working for the US Department of Defense, she joined the Servo team to explore applications and advancements available when using Rust for cryptography related projects.
