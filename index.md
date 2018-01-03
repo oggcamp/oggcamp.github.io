@@ -1,14 +1,14 @@
 ---
 layout: default
-title: OggCamp 17 
+title: OggCamp 18
 ---
-<h2 style="text-align: center;">SAT AUG 19th - SUN AUG 20th 2017 - CANTERBURY, UK</h2>
+<h2 style="text-align: center;">SAT AUG 18th - SUN AUG 19th 2018 - SHEFFIELD, UK</h2>
 
 ![OggCamp 2011 Geeknic - Photo by Miia Sample - CC-BY-SA]({{ site.url }}/files/geeknic-1.jpg)
 
 *OggCamp 2011 Geeknic - Photo by Miaa Sample - CC-BY-SA*
 
-[Tickets for this year's event are now available. Get them here!](/tickets)
+<!-- [Tickets for this year's event are now available. Get them here!](/tickets) -->
 
 Follow us on [Twitter](https://twitter.com/OggCamp), 
 [Facebook](https://www.facebook.com/OggCamp) or [Google+](https://plus.google.com/114120215314425775951) and we'll update you with any important news.

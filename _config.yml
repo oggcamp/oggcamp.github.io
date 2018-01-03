@@ -1,10 +1,10 @@
 # Site specific settings
-title: "OggCamp 17"
-name: "OggCamp 17 - A celebration of Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative activites."
+title: "OggCamp 18"
+name: "OggCamp 18 - A celebration of Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative activites."
 keywords: "Free Culture, OggCamp, Open Source, Free Software, Creative Commons, Unconference, United Kingdom, UK, England, Great Britain"
 baseurl: ""
 url: "https://oggcamp.github.io"
-description: "OggCamp 17"
+description: "OggCamp 18"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 

@@ -2,7 +2,7 @@
 layout: default
 title: Accommodation
 ---
-![Canterbury]({{ site.url }}/files/canterbury-riverbank.jpg)
+<!-- ![Canterbury]({{ site.url }}/files/canterbury-riverbank.jpg)
 
 *Photo by DAVID ILIFF. License: CC-BY-SA 3.0*
 
@@ -30,3 +30,5 @@ If you are unable to get a room at the official accommodation, or it is not suit
 * [Premier Inn](http://www.premierinn.com/gb/en/hotels/england/kent/canterbury/canterbury-city-centre.html) ££
 * [Kipps Hostel](http://kipps-hostel.com/) £
 * [Abode Hotel](http://www.abodecanterbury.co.uk/) £££
+-->
+Details to be announced closer to the time!

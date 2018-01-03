@@ -18,10 +18,11 @@ All attendees are required to agree and comply with the [Code of Conduct]({{ sit
 Please note that the talk rooms are various sizes and may not be able to fit all attendees.  All sessions are first-come-first-served, so if you want to make 
 sure you get a seat for a particular talk, get there early!
 
-You can also add yourself to the <a href="http://lanyrd.com/2017/oggcamp/">Lanyrd page for OggCamp 17.</a> A great way to see who else is coming, what talks 
+<!-- You can also add yourself to the <a href="http://lanyrd.com/2017/oggcamp/">Lanyrd page for OggCamp 17.</a> A great way to see who else is coming, what talks 
 are planned and find other information about the event. During the event, you can <a href="https://joind.in/event/oggcamp-17">leave feedback on sessions at Joind.in</a>.
 
 <iframe id="tickets" src="//eventbrite.co.uk/tickets-external?eid=32379714598&ref=etckt" width="100%" height="450" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe>
 <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;">
 <a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" href="http://www.eventbrite.co.uk/r/etckt" target="_blank">Powered by Eventbrite</a>
 </div>
+-->
