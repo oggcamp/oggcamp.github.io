@@ -68,7 +68,13 @@ Antonio usually speaks about Agile, DevOps, Project Management and Team manageme
 
 Saturday, Slot 6 - 14:30-14:55
 
-# TBC
+# GDPR
+## Melanie Calver<!-- [![Twitter Profile for Melanie Calver]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for Melanie Calver]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) -->[![LinkedIn Profile for Melanie Calver]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/melaniecalver)
+![Melanie Calver]({{ site.url }}/assets/img/speakers/Melanie-Calver.jpg){:style="width:30%"}
+
+Melanie Calver is a GDPR programme manager for the Federation of Small Businesses. With almost two decades’ experience in IT project and programme management, she’s no stranger to pressing deadlines or achieving regulatory compliance.
+
+Melanie gained her IT degree from Leeds in 2001 before joining Ford as a graduate trainee. A series of roles in the UK and overseas followed, working in government, health and finance. These taught her a lot about getting programme management right and some more about how not to get it wrong. She now runs programme management consultancy Prosperity Technology. Melanie lives on the Fylde Coast with her husband and her toddler, both of whom resist her organisational skills.
 
 ---
 
