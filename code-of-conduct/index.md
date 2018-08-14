@@ -28,6 +28,8 @@ We expect participants to follow these rules at conference and workshop venues a
 
 If you report an incident in-person to a crew member, we expect that they will ensure there is a second crew member to hear your issue. One of these two people will remain with you, while the other locates an organiser. Once an organiser has been found, you'll be handed over to them while an investigation occurs. Where appropriate, emergency services will also be contacted in parallel with this process.
 
+If you report an incident by phone, this will be to an organiser. Where possible, either an organiser or a crew member will make their way to your location to assist you while the investigation occurs. Again, where appropriate, emergency services will be contacted in parallel with this process.
+
 <hr>
 
 This document is based on [Conference Code of Conduct](http://confcodeofconduct.com/) and the [DEF CON Attendee Reported Incident Handling Process](https://www.defcon.org/html/defcon-26/dc-26-news.html#dc26incident] and is licensed under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
