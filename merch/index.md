@@ -33,7 +33,8 @@ OggCamp is a project under the banner of Public Software CIC, who are a VAT regi
 
 <!-- Retired until after OggCamp, when we can consider re-running this -->
 
-<!-- If you missed out on OggCamp 17 in Canterbury, you can still complete your OggCamp merchandise collection!  We have a very limited stock of mugs, t-shirts and stickers for sale.  A bundle with one of each will cost you just £15 including postage (UK only*).  Just select your fit and size below for the t-shirt size you want and pay via PayPal (credit/debit cards are accepted if you don't have an account).  All proceeds go towards funding future OggCamps!
+<!-- 
+If you missed out on OggCamp 17 in Canterbury, you can still complete your OggCamp merchandise collection!  We have a very limited stock of mugs, t-shirts and stickers for sale.  A bundle with one of each will cost you just £15 including postage (UK only*).  Just select your fit and size below for the t-shirt size you want and pay via PayPal (credit/debit cards are accepted if you don't have an account).  All proceeds go towards funding future OggCamps!
 
 <img src="../files/merch.jpg" alt="OggCamp merchandise bundle"/>
 
