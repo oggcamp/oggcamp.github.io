@@ -1,6 +1,6 @@
 ---
 title: OggCamp 2020 | COVID19 Cancellation
-updatedate: 2020-04-05 19:00:00
+updatedate: 2020-04-08 13:30:00
 categories: [news]
 layout: default
 ---
