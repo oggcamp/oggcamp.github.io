@@ -14,3 +14,7 @@ gem "jekyll-feed", "~> 0.11.0"
 
 # Added 2019-08-02 by Dan for new theme
 gem "bulma-clean-theme"
+
+# Added 2021-12-16 by jon:
+gem "kramdown", ">= 2.3.1"
+gem "kramdown-parser-gfm"
