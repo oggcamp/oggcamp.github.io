@@ -18,3 +18,5 @@ gem "bulma-clean-theme"
 # Added 2021-12-16 by jon:
 gem "kramdown", ">= 2.3.1"
 gem "kramdown-parser-gfm"
+
+gem "webrick", ">= 1.8.1"

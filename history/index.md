@@ -13,13 +13,9 @@ The first event was such a success that people immediately demanded another one.
 
 For its third year OggCamp moved down south, to the leafy surrounds of Farnham in Surrey. The massive venue was crammed with guests attending the two day event, many new to OggCamp. For the first time a scheduled speaker track was introduced in the main stage, with the remaining two tracks being run as an unconference.
 
-![OggCamp 10 by Tris Linnell under CC BY-NC-SA](http://tonywhitmore.co.uk/blog/wp-content/uploads/2011/08/geeknic.jpg)
-
-*OggCamp 11. Photo by Tris Linnell under CC BY-NC-SA*
-
 OggCamp moved back up north to Liverpool in 2012 and 2013, with LJMU providing a splendid venue. Alongside the scheduled main stage were three unconference tracks, an open hardware jam and a coffee shop! There was a video Q&A with Stephen Fry and some people built a house in the foyer.
 
-![Stephen Fry from OggCamp 12](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM0rGnUhPfooMaPMMztglgpLKSXcvMhUC7vzSKQQ5xEl3xhBFx)
+![Stephen Fry from OggCamp 12](https://i.ytimg.com/vi/J__Lmu4rnw4/hqdefault.jpg)
 
 *Stephen Fry from OggCamp 12*
 
@@ -28,6 +24,8 @@ OggCamp moved back up north to Liverpool in 2012 and 2013, with LJMU providing a
 OggCamp was again at LJMU in Liverpool in 2015. The podcasters panel was re-worked to represent the diverse set of Podcasters who had attended the event, chaired by Joe Ressington of Linux Luddites, featuring Pete Cannon from The Dick Turpin Roadshow, Ben Everard from Linux Voice, Mark Johnson from The Ubuntu Podcast, and Stuart Langridge from Bad Voltage. In the exhibition area were booths from Hacker Public Radio, Ragworm and Canonical amongst others. Representitives of the local Amateur Radio groups also erected a broadcasting and receiving station and gave a demonstration of the hobby to any attendees who were interested.
 
 In 2017, the event moves again to a new venue - Canterbury Christ Church University, and the new location brought a new, fresh faced group of attendees. In one interview, the organisers refer to the event as "The Travelling Circus of Unconferences". The live show took on a Question and Answer session, with representation from the Late Night Linux podcast and The Ubuntu Podcast.
+
+In 2019, OggCamp returned to the north to celebrate our 10th Anniversary at the Manchester Conference Centre! Once again, our podcast panel was chaired by Joe Ressington of the [Late Night Linux Family](https://www.latenightlinux.com), we had live music from Dev Null & The Kernel Panics and we included a dedicated kids track for the first time. We also joined forces with [Flawcon](flawcon.xyz), handing over the keys to one of our talk rooms on Sunday for talks on more security-focused topics. 
 
 Although started by two podcasts, OggCamp has now become something else: a genuine community event. It's the biggest 
 community driven event celebrating things like Free Culture, Free and Open Source Software, hardware hacking and digital rights in the UK and it's [still entirely free to get in]({{ site.github.url }}{{ site.baseurl }}/tickets).
