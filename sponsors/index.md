@@ -12,7 +12,7 @@ Although we keep OggCamp free to attend it does cost a considerable amount of mo
 
 If you or your company would like to sponsor the event please download our PDF sponsor pack which contains all the details you need.
 
-<div id="SponsorPack"><a href="/files/OggCamp2019SponsorPack.pdf"><img src="/assets/img/SponsorPackCover.png" /><br /><h2>DOWNLOAD SPONSOR PACK</h2></a></div>
+<div id="SponsorPack"><a href="/files/OggCamp2024SponsorPack.pdf"><img src="/assets/img/SponsorPackCover.png" /><br /><h2>DOWNLOAD SPONSOR PACK</h2></a></div>
 
 We look forward to hearing from you! :-)
 `
