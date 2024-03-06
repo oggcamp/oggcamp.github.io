@@ -4,7 +4,7 @@ title: Tickets
 ---
 While you don't *have* to have a ticket to come to OggCamp, registering helps us to know how many people to expect and provide you with a better experience.
 
-* £20 is only a **suggested** amount.
+* £40 is only a **suggested** amount.
 * You can absolutely put 0 in the amount box if that's what you can afford.
 * Alternatively, if you would like to make a larger payment to help cover costs we certainly won't argue :)
 

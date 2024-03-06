@@ -1,6 +1,6 @@
 ---
 title: OGGCAMP 24
-subtitle: MANCHESTER, UK
+subtitle: OggCamp 2024, Manchester, UK
 layout: default-home
 show_sidebar: true
 ---
@@ -8,17 +8,12 @@ show_sidebar: true
 <img src="/assets/img/oggcamp-19-logo-wordmark.png" alt="OggCamp19 logo" class="banner-logo" />
 -->
 
-**After 5 years away, we are back in 2024!**
+**After 5 years away, OggCamp is back in 2024!**
 
-Tickets will be announced soon!
+CfP and tickets will be announced soon so please watch this space!
 
-<!--
-We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 19th and 20th 2019**.
+We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 12th and 13th 2024**.
 
-There are some reserved rooms available at the venue hotel but you better BOOK THEM FAST. Details of how to do so can be <strong><a href="/news/accommodation/">found here.</a></strong>
-
-<a href="/tickets">**Tickets are available now**</a>. So get booking!
--->
 
 <hr />
 <!--
