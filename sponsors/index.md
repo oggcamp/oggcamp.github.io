@@ -14,7 +14,7 @@ Why Sponsor OggCamp? What's the _TLDR_?
 - Visibility: Reach a diverse audience of tech enthusiasts, developers, and open-source advocates.
 - Community Engagement: Show your commitment to the community and foster connections.
 - Brand Exposure: Associate your brand with a respected event.
-- Support a Great Cause: Help us keep OggCamp free and accessible to all.
+- Support a Great Cause: Help us keep OggCamp accessible to all.
 
 If you or your company would like to sponsor the event please download our PDF sponsor pack which contains all the details you need.
 
