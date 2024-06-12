@@ -3,4 +3,4 @@ title: OggCamp Schedule
 layout: default
 ---
 
-Our schedule for OggCamp in 2024 is TBC. Please check back for updates!
+We're working on our scheduled track. Want to speak? Check out our <a href="https://www.papercall.io/oggcamp24">**CfP**</a> and get submitting!

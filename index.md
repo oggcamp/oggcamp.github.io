@@ -10,7 +10,9 @@ show_sidebar: true
 
 **After 5 years away, OggCamp is back in 2024!**
 
-CfP and tickets will be announced soon so please watch this space!
+Want to talk on our scheduled track? <a href="https://www.papercall.io/oggcamp24">**CfP**</a> is now open!
+
+Tickets will be announced soon so please watch this space!
 
 We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 12th and 13th 2024**.
 
