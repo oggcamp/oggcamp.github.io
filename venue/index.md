@@ -12,3 +12,5 @@ Full Address: The Pendulum Hotel, Sackville Street, Manchester, M1 3BB
 Tel: 0161 955 8000
 
 Email: stay@pendulumhotel.co.uk
+
+Discount code for OggCamp attendees: 'DELEGATE'
