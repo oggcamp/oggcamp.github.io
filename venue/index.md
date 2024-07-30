@@ -13,4 +13,4 @@ Tel: 0161 955 8000
 
 Email: stay@pendulumhotel.co.uk
 
-Discount code for OggCamp attendees: 'DELEGATE'
+Discount code for OggCamp attendees: 'DELEGATE' - more details (here)[https://oggcamp.org/news/hotel/]
