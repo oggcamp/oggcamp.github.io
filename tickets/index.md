@@ -8,7 +8,7 @@ While you don't *have* to have a ticket to come to OggCamp, registering helps us
 * You can absolutely put £1 in the amount box if that's what you can afford. (We just ask that you cover the fees for our ticketing platform)
 * Alternatively, if you would like to make a larger payment to help cover costs we certainly won't argue! We've also introduced a "Professional" ticket tier this year, intended for those needing a fixed-price ticket to charge back to their company.
 
-**OggCamp Tickets are now available!** Please visit [Eventyay](https://eventyay.com/e/329cd4d8) to get signed up!
+**OggCamp Tickets are now available!** Please visit [Eventyay](https://eventyay.com/e/329cd4d8) to get signed up! Our early bird tickets give £5 off of the suggested price and are available until September 1st
 
 Also remember that OggCamp attendees are entitled to a discount on the standard room rate at our venue. Please see our [venue page]({{ site.baseurl }}/venue) for details.
 
