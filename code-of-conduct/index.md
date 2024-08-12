@@ -22,7 +22,7 @@ Furthermore:
 - COVID Lateral Flow Tests will be made available during the event, particularly to those experiencing symptoms.
 - All rooms will be ventilated as best we can during the event.
 
-We will update these rules as required and also provide you with additional information as they become available. If you have any questions, concerns or recommendations, please don’t hesitate to reach out to us at oggcamp@mailman.lug.org.uk.
+We will update these rules as required and also provide you with additional information as they become available. If you have any questions, concerns or recommendations, please don’t hesitate to reach out to us at contact@oggcamp.org.
 
 
 ## The Quick Version
