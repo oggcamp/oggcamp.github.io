@@ -17,10 +17,10 @@ title: Join Our Crew
 **But what do you get for this?**
 In return for volunteering you will receive a limited edition crew t-shirt, free standard event t-shirt and mug to remember us by. Plus of course the enternal gratitude of all the organisers which doesn't have a cash value but will make you feel warm and fuzzy inside :-)
 
-If this sounds good please sign up using this form, thank you!
+If this sounds good please sign up using this [form](https://docs.google.com/forms/d/e/1FAIpQLScNq3HT0dg1siub9quXEdmmZstggLKxniusxR9oojOQZuKJXw/viewform), thank you!
 
-<iframe class="googleform" src="https://docs.google.com/forms/d/e/1FAIpQLSe94j_rvCK9-0IBVBRZ-U4TrbPRP8yDpRsKy9TEn6oSdQCUbg/viewform?embedded=true" width="95%" height="2076" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNq3HT0dg1siub9quXEdmmZstggLKxniusxR9oojOQZuKJXw/viewform?embedded=true" width="640" height="2076" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 One of us! One of us! :D
 
-Please join us on the **OggCamp Discord** and we'll add you to the Crew channel - [https://discord.gg/4DcDk6Y](https://discord.gg/4DcDk6Y)
+[comment]: Please join us on the **OggCamp Discord** and we'll add you to the Crew channel - [https://discord.gg/4DcDk6Y](https://discord.gg/4DcDk6Y)
