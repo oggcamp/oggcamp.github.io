@@ -23,8 +23,22 @@ If you or your company would like to sponsor the event please download our PDF s
 We look forward to hearing from you! :-)
 
 <hr />
-<h2>SPECIAL THANKS TO OUR GOLD SPONSORS FOR 2024</h2>
-
+<h2>SPECIAL THANKS TO OUR SPONSORS FOR 2024</h2>
+<table>
+  <tr>
+    <td>
+      <img src="../assets/img/UTAW-Logo-URL-lower-case.png" alt="UTAW" width='350px'>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>OggCamp would like to thank UTAW for being our Pinnacle sponsor this year!</b>
+      <br>
+      <a href="https://utaw.tech/">United Tech and Allied Workers</a> (UTAW) are a national branch of the Communication Workers Union (CWU) formed in 2020. We are the UK’s only union specifically for all workers in the tech industry, and we're proud to represent more tech workers than anyone else.
+      The CWU campaigns nationally for workers in tech, telecoms, post and communications - offering legal support amongst other benefits, and providing a collective political voice for 180,000 workers.
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td><img src="https://oggcamp.org/assets/img/nexteam-logo.png" alt="Nexteam"></td>
