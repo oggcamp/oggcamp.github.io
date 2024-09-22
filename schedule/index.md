@@ -3,6 +3,9 @@ title: OggCamp Schedule
 layout: default
 ---
 
-Our CfP for 2024 is now closed, but if you have a talk, bring it along and get it on the board. We're a barcamp, after all!
+We're still finalising our tooling for this years (un)conference, but figured we owe you a <a href="./DraftSchedule.pdf">draft schedule</a>! The final details and talk descriptions will be coming soon.
 
-We're working on our scheduled track and will announce ASAP.
+Talk didn't make this list, or you've got something cool to talk about? Remember we're an unconference. There's two rooms just for you available all weekend, turn up with your idea and let the attendees decide! There are two whole rooms ready and waiting to hear what you have to say :-)
+
+Draft Schedule <i>(Click to open pdf)</i>
+<a href="./DraftSchedule.pdf" target=_blank><img src="./DraftSchedule.png" alt="OggCamp 2024 Draft Schedule" /></a>

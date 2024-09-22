@@ -9,6 +9,8 @@ show_sidebar: true
 
 **After 5 years away, OggCamp is back in 2024!**
 
+**Draft schedule is <a href="{{ site.baseurl }}/schedule">here!</a>** take a look at what's on offer on our scheduled track.
+
 **OggCamp Tickets are now available!** Visit <a href="{{ site.baseurl }}/tickets/">tickets</a> to find out more and secure your place.
 
 We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 12th and 13th 2024**.
