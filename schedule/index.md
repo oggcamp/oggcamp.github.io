@@ -7,4 +7,4 @@ We are thrilled to announce that the schedule for the scheduled track at OggCamp
 
 The schedule includes a variety of topics ranging from the latest in open-source technology to hands-on workshops and panel discussions. Whether you’re a seasoned OggCamp-er or this is your first year, there’s something for everyone.
 
-View the scheduled track schedule on <a href="" target="https://joind.in/event/oggcamp-2024"_blank>JoindIn</a>
+View the scheduled track schedule on <a href="https://joind.in/event/oggcamp-2024" target=_blank>JoindIn</a>
