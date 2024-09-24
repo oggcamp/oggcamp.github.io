@@ -3,9 +3,8 @@ title: OggCamp Schedule
 layout: default
 ---
 
-We're still finalising our tooling for this years (un)conference, but figured we owe you a <a href="./DraftSchedule.pdf">draft schedule</a>! The final details and talk descriptions will be coming soon.
+We are thrilled to announce that the schedule for the scheduled track at OggCamp 2024 is now available! This year’s event promises to be packed with exciting sessions, insightful talks, and plenty of opportunities to connect with fellow open-source and free-culture enthusiasts.
 
-Talk didn't make this list, or you've got something cool to talk about? Remember we're an unconference. There's two rooms just for you available all weekend, turn up with your idea and let the attendees decide! There are two whole rooms ready and waiting to hear what you have to say :-)
+The schedule includes a variety of topics ranging from the latest in open-source technology to hands-on workshops and panel discussions. Whether you’re a seasoned OggCamp-er or this is your first year, there’s something for everyone.
 
-Draft Schedule <i>(Click to open pdf)</i>
-<a href="./DraftSchedule.pdf" target=_blank><img src="./DraftSchedule.png" alt="OggCamp 2024 Draft Schedule" /></a>
+View the scheduled track schedule on <a href="" target="https://joind.in/event/oggcamp-2024"_blank>JoindIn</a>
