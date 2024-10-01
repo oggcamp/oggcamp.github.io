@@ -9,7 +9,7 @@ show_sidebar: true
 
 **After 5 years away, OggCamp is back in 2024!**
 
-**Draft schedule is <a href="{{ site.baseurl }}/schedule">here!</a>** take a look at what's on offer on our scheduled track.
+**Schedule is <a href="{{ site.baseurl }}/schedule">here!</a>** take a look at what's on offer on our scheduled track.
 
 **OggCamp Tickets are now available!** Visit <a href="{{ site.baseurl }}/tickets/">tickets</a> to find out more and secure your place.
 
