@@ -1,15 +1,17 @@
 - name: News
   link: /news/
-- name: Venue
-  link: /venue/
-- name: Sponsors
-  link: /sponsors/
-- name: Crew
-  link: /crew/
 - name: Schedule
   link: /schedule/
+- name: Talk Guidelines
+  link: /guidelines/
+- name: Sponsors
+  link: /sponsors/
 - name: Code of Conduct 
   link: /code-of-conduct/
+- name: Venue
+  link: /venue/
+- name: Crew
+  link: /crew/
 - name: History
   link: /history/
 - name: Get Tickets
