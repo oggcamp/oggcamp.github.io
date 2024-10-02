@@ -28,7 +28,7 @@ We have people of various ages, genders, races, nationalities and cultures atten
 
 Attendees may take photographs, audio and video recordings during your talk. If you are not happy for this to happen please inform the member of the crew in your room before starting and also warn the attendees.
 
-Every room will have a projector but using it isn't compulsory. If you choose to use slides it's advisable to bring a device with you which you know can open the format they are in, plus appropriate adapters to connect it to the projector. Please also bring a copy of your slides on a USB stick in case your device fails.
+Every room will have a projector/TV but using it isn't compulsory. If you choose to use slides it's advisable to bring a device with you which you know can open the format they are in, plus appropriate adapters to connect it to the projector/TV (rooms are only equipped with HDMI inputs). Please also bring a copy of your slides on a USB stick in case your device fails.
 
 If you're planning to demonstrate a system, it may be advisable to video the demonstration beforehand as a backup just in case something goes wrong on the day. We've all had live demos crash and burn on us so you'll be in good company.
 
