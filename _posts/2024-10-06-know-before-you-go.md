@@ -25,7 +25,7 @@ We have a wide range of scheduled talks available on [JoindIn](https://joind.in/
 **Merchandise/Raffle**
 
 As always, we have OggCamp merch available for you to remember your weekend by! Both t-shirts and mugs will be available at our stand in the ‘Pioneer Room’, where you’ll also find tables to socialise, play your favourite tabletop games, do ad-hoc demos of your projects, or just chat to our friendly team and sponsors. If you’ve pre-ordered merch, please make sure you have your ticket ready showing you’ve pre-ordered, and we’ll be sure to get it to you from the stock we’ve set aside!
-We’ll also be selling tickets for the OggCamp raffle with plenty of great prizes on offer including a BeeLink mini PC, PiCar, Android tablet and more! Tickets will be available using **_cash_** only, so please make sure to bring some along with you! 
+We’ll also be selling tickets for the OggCamp raffle with plenty of great prizes on offer including a BeeLink mini PC, PiCar, Android tablet and more! Raffle tickets will be available using **_cash_** only, so please make sure to bring some along with you! 
 
 **Social events**
 
