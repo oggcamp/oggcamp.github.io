@@ -29,7 +29,7 @@ We’ll also be selling tickets for the OggCamp raffle with plenty of great priz
 
 **Social events**
 
-We don’t have any ‘official’ OggCamp social activities this year, but our encouragement to OggCampers is to gather in the Pendulum Hotel Bar, where you’re sure to bump into lots of like-minded folk for a nerdy natter, a board/card game, or some [food](https://ogg.camp/files/OggCamp2024-Menu.pdf) and a beverage! There will definitely be folks around on Friday evening before the start, as well as on Saturday; we expect many people will be leaving after we wrap up on Sunday, but feel free to arrange your own meetups beyond OggCamp if you like.
+We don’t have any ‘official’ OggCamp social activities this year, but our encouragement to OggCampers is to gather in the Pendulum Hotel Bar, where you’re sure to bump into lots of like-minded folk for a nerdy natter, a board/card game, or some [food](https://ogg.camp/files/OggCamp2024-Menu.pdf) and a beverage! There will definitely be folks around on Friday evening before the start, as well as on Saturday; we expect many people will be leaving after we wrap up on Sunday, but feel free to arrange your own meetups beyond OggCamp if you like. Special thanks to Richard Shortland-Neal for providing us with a [list of local vegan and gluten free options](https://ogg.camp/files/OggCamp24-Vegan.pdf) for those who are interested.
 
 **Code of Conduct, Health and Safety**
 
