@@ -1,21 +1,10 @@
 ---
-title: OGGCAMP 24
-subtitle: OggCamp 2024, Manchester, UK
+title: OGGCAMP
+subtitle: OggCamp
 layout: default-home
 show_sidebar: true
 ---
 
-<img src="./assets/img/oggcamp-2024-logo-150px.png" alt="OggCamp 2024 logo" class="banner-logo" />
-
-**After 5 years away, OggCamp is back in 2024!**
-
-**Schedule is <a href="{{ site.baseurl }}/schedule">here!</a>** take a look at what's on offer on our scheduled track.
-
-**OggCamp Tickets are now available!** Visit <a href="{{ site.baseurl }}/tickets/">tickets</a> to find out more and secure your place.
-
-We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 12th and 13th 2024**.
-
-<hr />
 <!--
 <h2>LATEST NEWS</h2>
 
@@ -31,13 +20,19 @@ See more [news](/news).
 
 <hr />
 -->
+<H2>THANK YOU!</H2>
+
+The OggCamp team would like to thank the community for making OggCamp 2024 a success. Check out how much fun people had on our [Fediwall](https://fediwall.social/?load=https://gist.githubusercontent.com/andypiper/324d60e5e45e4aa03f2e071b914182e9/raw/f4ce843b3b2cd57f9c2d4cac2c7816eb6d5e0cb8/oggcamp2024.json) and keep an eye out for announcements for OggCamp.next!
+
+<hr />
+
 <h2>STAY IN TOUCH</h2>
 
 Follow us on [Mastodon](https://mastodon.social/@oggcamp) or [Bluesky](https://bsky.app/profile/oggcamp.bsky.social) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.libera.chat/oggcamp)(also available via [WebChat](https://web.libera.chat/#oggcamp)), an [Matrix Room](https://matrix.to/#/#oggcamp:matrix.org) and a [Discord Server](https://discord.gg/4DcDk6Y).
 
 <hr />
 
-<h2>THANK YOU TO OUR SPONSORS</h2>
+<!-- <h2>THANK YOU TO OUR SPONSORS</h2>
 <h3>Pinnacle Sponsor:</h3>
 <table>
   <tr>
@@ -80,9 +75,7 @@ Follow us on [Mastodon](https://mastodon.social/@oggcamp) or [Bluesky](https://b
       <a href="https://www.codethink.co.uk">Codethink</a> has established an international reputation as a world-class provider of software engineering and consultancy services. Codethink delivers critical, high-performance software projects for international companies in a range of industries. We provide expert teams to help our clients tackle their most challenging software problems.
     </td>
   </tr>
-</table>
-
-<hr />
+</table> -->
 
 <h2>WHAT IS AN OGGCAMP?</h2>
 

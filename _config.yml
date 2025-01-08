@@ -1,12 +1,12 @@
 # Site specific settings
 #New theme added by Dan
 theme: bulma-clean-theme
-title: "OggCamp 24"
-name: "OggCamp 24 A celebration of Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative activites."
+title: "OggCamp"
+name: "OggCamp A celebration of Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative activites."
 keywords: "Free Culture, OggCamp, Open Source, Free Software, Creative Commons, Unconference, United Kingdom, UK, England, Great Britain"
 baseurl: ""
 url: "https://oggcamp.org"
-description: "OggCamp 24"
+description: "OggCamp"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
