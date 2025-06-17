@@ -1,6 +1,6 @@
 ---
-title: OGGCAMP
-subtitle: OggCamp
+title: OGGCAMP 26
+subtitle: OggCamp 2026, Manchester, UK
 layout: default-home
 show_sidebar: true
 ---
@@ -20,9 +20,11 @@ See more [news](/news).
 
 <hr />
 -->
-<H2>THANK YOU!</H2>
+<H2>OGGCAMP RETURNS IN 2026</H2>
 
-The OggCamp team would like to thank the community for making OggCamp 2024 a success. Check out how much fun people had on our [Fediwall](https://fediwall.social/?load=https://gist.githubusercontent.com/andypiper/324d60e5e45e4aa03f2e071b914182e9/raw/f4ce843b3b2cd57f9c2d4cac2c7816eb6d5e0cb8/oggcamp2024.json) and keep an eye out for announcements for OggCamp.next!
+Save the date and join us once again at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a>, in the Pendulum Hotel near Picadilly Station, over the weekend of April 25th and 26th 2025.
+
+Keep an eye out for the Call for Papers and ticket announcements soon!
 
 <hr />
 
