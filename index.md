@@ -22,7 +22,7 @@ See more [news](/news).
 -->
 <H2>OGGCAMP RETURNS IN 2026</H2>
 
-Save the date and join us once again at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a>, in the Pendulum Hotel near Picadilly Station, over the weekend of April 25th and 26th 2025.
+Save the date and join us once again at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a>, in the Pendulum Hotel near Picadilly Station, over the weekend of April 25th and 26th 2026.
 
 Keep an eye out for the Call for Papers and ticket announcements soon!
 
