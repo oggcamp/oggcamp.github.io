@@ -8,46 +8,49 @@ defaultContentLanguage = "en-gb"
 # Enable emojis globally
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
+# Load Theme Module
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+# Main Menu (navbar)
+[menu]
+[[menu.main]]
+  # The page reference (pageRef) is useful for menu highlighting
+  # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+  pageRef="/"
+  name = 'Home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  pageRef="posts"
+  name = 'Posts'
+  url = '/posts/'
+  weight = 20
+[[menu.main]]
+  pageRef="history"
+  name = 'History'
+  url = '/history/'
+  weight = 30
+[[menu.main]]
+  pageRef="sponsors"
+  name = 'Sponsors'
+  url = '/Sponsors/'
+  weight = 30
+[[menu.main]]
+  pageRef="guidelines"
+  name = 'Talk Guidelines'
+  url = '/guidelines/'
+  weight = 30
+[[menu.main]]
+  pageRef="code-of-conduct"
+  name = 'Code of Conduct'
+  url = '/code-of-conduct/'
+  weight = 30
 
-
-############################## English language ################################
-
-  [menu]
-  [[menu.main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Home'
-    url = '/'
-    weight = 10
-  [[menu.main]]
-    pageRef="posts"
-    name = 'Posts'
-    url = '/posts/'
-    weight = 20
-  [[menu.main]]
-    pageRef="history"
-    name = 'History'
-    url = '/history/'
-    weight = 30
-  [[menu.main]]
-    pageRef="sponsors"
-    name = 'Sponsors'
-    url = '/Sponsors/'
-    weight = 30
-  [[menu.main]]
-    pageRef="guidelines"
-    name = 'Talk Guidelines'
-    url = '/guidelines/'
-    weight = 30
-  [[menu.main]]
-    pageRef="code-of-conduct"
-    name = 'Code of Conduct'
-    url = '/code-of-conduct/'
-    weight = 30
-#[params]
+# Global Site Parameters
+[params]
   sitename = "OggCamp 2026"
-  defaultColor = "dark" # set color mode: dark, light, auto
+  defaultColor = "auto" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
@@ -68,6 +71,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
   # By default (or if nothing is specified), summary is used.
 
+# Author Parameters (Defines detail on homepage)
 [params.author]
   avatar = "oggcamp-2024-logo-150px.png"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
@@ -84,12 +88,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
 
-
-
-################################################
-[module]
-  [[module.imports]]
-    path = "github.com/hugo-sid/hugo-blog-awesome"
+# Social Media Icons
 [[params.socialIcons]]
   name = "github"
     url = "https://github.com/oggcamp"
