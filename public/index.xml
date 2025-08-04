@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OggCamp 2026</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dev.oggcamp.org/</link>
     <description>Recent content on OggCamp 2026</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 04 Aug 2025 22:01:52 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 22:01:52 +0100</lastBuildDate><atom:link href="https://dev.oggcamp.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get your tickets here!</title>
-      <link>http://localhost:1313/posts/hello-world/hello-world/</link>
+      <link>https://dev.oggcamp.org/posts/hello-world/hello-world/</link>
       <pubDate>Mon, 04 Aug 2025 22:01:52 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-world/hello-world/</guid>
+      <guid>https://dev.oggcamp.org/posts/hello-world/hello-world/</guid>
       
       <description>&lt;p&gt;&lt;a href=&#34;https://tickets.oggcamp.org&#34;&gt;Get em&amp;rsquo; while they&amp;rsquo;re hot!&lt;/a&gt;&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Code of Conduct</title>
-      <link>http://localhost:1313/code-of-conduct/</link>
+      <link>https://dev.oggcamp.org/code-of-conduct/</link>
       <pubDate>Mon, 04 Aug 2025 21:53:13 +0100</pubDate>
       
-      <guid>http://localhost:1313/code-of-conduct/</guid>
+      <guid>https://dev.oggcamp.org/code-of-conduct/</guid>
       
       <description>&lt;p&gt;All attendees, speakers, sponsors and volunteers at our OggCamp are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.&lt;/p&gt;
 &lt;h2 id=&#34;health--safety&#34;&gt;Health &amp;amp; Safety&lt;/h2&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Talk Guidelines</title>
-      <link>http://localhost:1313/guidelines/</link>
+      <link>https://dev.oggcamp.org/guidelines/</link>
       <pubDate>Mon, 04 Aug 2025 21:51:16 +0100</pubDate>
       
-      <guid>http://localhost:1313/guidelines/</guid>
+      <guid>https://dev.oggcamp.org/guidelines/</guid>
       
       <description>&lt;p&gt;The unconference talks make OggCamp what it is. Every year we&amp;rsquo;re amazed by the range of topics and projects presented. The details below should help you prepare whether you want to give a talk, or just want to watch.&lt;/p&gt;
 &lt;h2 id=&#34;scheduled-track&#34;&gt;Scheduled Track&lt;/h2&gt;
@@ -46,22 +46,22 @@
     
     <item>
       <title>Sponsor us!</title>
-      <link>http://localhost:1313/sponsors/</link>
+      <link>https://dev.oggcamp.org/sponsors/</link>
       <pubDate>Mon, 04 Aug 2025 21:43:58 +0100</pubDate>
       
-      <guid>http://localhost:1313/sponsors/</guid>
+      <guid>https://dev.oggcamp.org/sponsors/</guid>
       
       <description>&lt;p&gt;Although we keep OggCamp free to attend it does cost a considerable amount of money to put on. Each year we pay for venue hire, technical equipment, food, transport, stationary and a whole host of other random things. In order to do that we rely on the support of some wonderful sponsors.&lt;/p&gt;
-&lt;p&gt;If you or your company would like to sponsor the event please download our PDF &lt;a href=&#34;http://localhost:1313/files/SponsorPack.pdf&#34;&gt;sponsor pack&lt;/a&gt; which contains all the details you need.&lt;/p&gt;</description>
+&lt;p&gt;If you or your company would like to sponsor the event please download our PDF &lt;a href=&#34;https://dev.oggcamp.org/files/SponsorPack.pdf&#34;&gt;sponsor pack&lt;/a&gt; which contains all the details you need.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>History</title>
-      <link>http://localhost:1313/history/</link>
+      <link>https://dev.oggcamp.org/history/</link>
       <pubDate>Mon, 04 Aug 2025 21:40:53 +0100</pubDate>
       
-      <guid>http://localhost:1313/history/</guid>
+      <guid>https://dev.oggcamp.org/history/</guid>
       
       <description>&lt;p&gt;The first OggCamp was a one day unconference, held in 2009 in the glamorous city of Wolverhampton. It was an instant success, with over 100 people queuing through the corridors of the hotel to get in. The event was run as a joint effort by two podcasts,
 &lt;!-- raw HTML omitted --&gt;Linux Outlaws&lt;!-- raw HTML omitted --&gt; and the &lt;!-- raw HTML omitted --&gt;Ubuntu Podcast&lt;!-- raw HTML omitted --&gt;. The climax of the day was a live joint recording between the two podcasts which featured the now-famous raffle-cast.&lt;/p&gt;</description>
