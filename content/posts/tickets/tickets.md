@@ -3,6 +3,8 @@ date = '2025-08-04T22:01:52+01:00'
 draft = false
 title = 'Get your tickets here!'
 +++
+We're back on April 25th - 26th, 2026 at [The Manchester Conference Centre](https://www.openstreetmap.org/way/135912649)
+
 While you don't *have* to have a ticket to come to OggCamp, registering helps us to know how many people to expect and provide you with a better experience.
 
 * £40 is our **suggested** amount. Across the industry, sponsors are hard to come by so by asking you to contribute, you help us to ensure OggCamp is a success.
