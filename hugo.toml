@@ -92,7 +92,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "OggCamp 2026"
   name = "OggCamp"
-  description = "OggCamp is an unconference celebrating Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative cultural activities and is committed to creating a conference that is as inclusive as possible. If you’ve got a story to tell, no matter your background or current status, whether it’s your first talk or you’ve loads of experience, as long as the talk is connected (somehow) to our theme then we want to know about it. Curious what happens at an OggCamp?"
+  description = "OggCamp is an unconference celebrating Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative cultural activities and is committed to creating a conference that is as inclusive as possible. If you’ve got a story to tell, no matter your background or current status, whether it’s your first talk or you’ve loads of experience, as long as the talk is connected (somehow) to our theme then we want to know about it. Curious what happens at an OggCamp? Check the about page, or look at our social links below."
 
 # Allow to override webmanifest options
 [params.webmanifest]
