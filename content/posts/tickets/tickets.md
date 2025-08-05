@@ -11,7 +11,7 @@ While you don't *have* to have a ticket to come to OggCamp, registering helps us
 
 **OggCamp Tickets are now available!** Please visit ["tickets dot"](https://tickets.oggcamp.org) to get signed up! Our early bird tickets give £5 off of the suggested price and are available until January 1st
 
-Also remember that OggCamp attendees are entitled to a discount on the standard room rate at our venue. Please see our [venue page](/venue) for details.
+A hotel discount code for OggCamp attendees will be announced soon.
 
 All attendees are required to agree and comply with the [Code of Conduct](/code-of-conduct), including the Health and Safety section of the CoC.
 
