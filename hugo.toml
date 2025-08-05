@@ -2,6 +2,11 @@ baseURL = 'https://oggcamp.github.io/'
 languageCode = 'en-gb'
 title = 'OggCamp 2026'
 
+# Cache location required for GH Pages (https://gohugo.io/host-and-deploy/host-on-github-pages/)
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
 
