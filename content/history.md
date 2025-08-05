@@ -28,6 +28,8 @@ In 2017, the event moves again to a new venue - Canterbury Christ Church Univers
 
 In 2019, OggCamp returned to the north to celebrate our 10th Anniversary at the Manchester Conference Centre! Once again, our podcast panel was chaired by Joe Ressington of the [Late Night Linux Family](https://www.latenightlinux.com), we had live music from Dev Null & The Kernel Panics and we included a dedicated kids track for the first time. We also joined forces with [Flawcon](flawcon.xyz), handing over the keys to one of our talk rooms on Sunday for talks on more security-focused topics. 
 
+After a break for "the event", OggCamp returned in 2024, marking 15 years since doors first opened! You can see what people thought at our [Fediwall](https://fediwall.social/?load=https://gist.githubusercontent.com/andypiper/324d60e5e45e4aa03f2e071b914182e9/raw/f4ce843b3b2cd57f9c2d4cac2c7816eb6d5e0cb8/oggcamp2024.json)
+
 Although started by two podcasts, OggCamp has now become something else: a genuine community event. It's the biggest community driven event celebrating things like Free Culture, Free and Open Source Software, hardware hacking and digital rights in the UK.
 
 To see how much fun people have at OggCamp, just [search](https://duckduckgo.com/?hps=1&q=oggcamp&atb=v467-1&ia=images&iax=images)!.
