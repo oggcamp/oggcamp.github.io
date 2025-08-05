@@ -1,4 +1,4 @@
-module github.com/oggcamp/oggcamp-hugo
+module github.com/oggcamp/oggcamp.github.io
 
 go 1.24.5
 
