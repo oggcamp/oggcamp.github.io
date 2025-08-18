@@ -3,8 +3,7 @@ date = '2025-08-04T21:40:53+01:00'
 draft = false
 title = 'History'
 +++
-The first OggCamp was a one day unconference, held in 2009 in the glamorous city of Wolverhampton. It was an instant success, with over 100 people queuing through the corridors of the hotel to get in. The event was run as a joint effort by two podcasts, 
-<a href="http://sixgun.org/linuxoutlaws">Linux Outlaws</a> and the <a href="http://podcast.ubuntu-uk.org">Ubuntu Podcast</a>. The climax of the day was a live joint recording between the two podcasts which featured the now-famous raffle-cast.
+The first OggCamp was a one day unconference, held in 2009 in the glamorous city of Wolverhampton. It was an instant success, with over 100 people queuing through the corridors of the hotel to get in. The event was run as a joint effort by two podcasts, Linux Outlaws and the Ubuntu Podcast. The climax of the day was a live joint recording between the two podcasts which featured the now-famous raffle-cast.
 
 The first event was such a success that people immediately demanded another one. A two-day event was held in Liverpool at the Black-E in 2010, which had almost finished an extensive programme of renovation. Even more people came and there was an even wider range of speakers and subjects.
 

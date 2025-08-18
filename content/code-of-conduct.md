@@ -52,6 +52,4 @@ If you report an incident in-person to a crew member, we expect that they will e
 
 If you report an incident by phone, this will be to an organiser. Where possible, either an organiser or a crew member will make their way to your location to assist you while the investigation occurs. Again, where appropriate, emergency services will be contacted in parallel with this process.
 
-<hr>
-
 This document is based on [Conference Code of Conduct](http://confcodeofconduct.com/) and the [DEF CON Attendee Reported Incident Handling Process](https://www.defcon.org/html/defcon-26/dc-26-news.html#dc26incident) and is licensed under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
