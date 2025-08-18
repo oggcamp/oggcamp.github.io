@@ -40,7 +40,7 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing. If you can't find a member of the conference staff, please phone +44 (0)7735 211096 where the phone with that number on will be held by a duty crew member.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing. If you can't find a member of the conference staff, please phone **number tbc** where the phone with that number on will be held by a duty crew member.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
