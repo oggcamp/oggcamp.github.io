@@ -88,7 +88,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 # Author Parameters (Defines detail on homepage)
 [params.author]
-  avatar = "oggcamp-2024-logo-150px.png"
+  avatar = "OggCamp-26-Light-400px.png"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "OggCamp 2026 - April 25th - 26th, 2026 - Manchester, UK"
   name = "OggCamp"
