@@ -13,6 +13,8 @@ OggCamp has always been an unconference with a single scheduled track that means
 
 Don't be shy! Talks at OggCamp can be about anything. This includes open source software, hardware hacking, making, science, home improvements, politics, creative commons music and literature, or anything else you think might interest the community. Even if you're not sure it will, you might be surprised to find out there are many people who find your project fascinating!
 
+Please keep in mind that OggCamp is run by volunteers so we don't have any budget to pay for travel and accommodation for anyone speaking at the event. We do have a warm and welcoming community, though, and they'll be happy to lend you the right dongle to connect your laptop to the projector if you need it!
+
 **Pro-tip:** Add your name as well as your topic, it helps us let you know you have been scheduled, and avoid scheduling two sessions that both belong to you at the same time in different rooms ...
 
 ## Attending a Talk
