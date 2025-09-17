@@ -3,6 +3,8 @@ date = '2025-08-04T21:51:16+01:00'
 draft = false
 title = 'Talk Guidelines'
 +++
+The CfP for our scheduled track is now open! See our [CfP page](/posts/cfp) for more info.
+
 The unconference talks make OggCamp what it is. Every year we're amazed by the range of topics and projects presented. The details below should help you prepare whether you want to give a talk, or just want to watch.
 
 ## Scheduled Track
