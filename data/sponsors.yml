@@ -1,0 +1,20 @@
+# Pinnacle
+- name: "Collabora Online"
+  logo: "/img/sponsors/collabora-online-primary.png"
+  url: "https://www.collaboraonline.com/"
+  tier: "pinnacle"
+# Platinum
+# - name: "Platinum Sponsor"
+#   logo: "/img/sponsors/collabora-online-white.png"
+#   url: "https://www.example.com/"
+#   tier: "platinum"
+# Gold
+# - name: "Gold Sponsor"
+#   logo: "/img/sponsors/collabora-online-white.png"
+#   url: "https://www.collaboraonline.com/"
+#   tier: "gold"
+# Silver
+# - name: "Silver Sponsor"
+#   logo: "/img/sponsors/collabora-online-white.png"
+#   url: "https://www.collaboraonline.com/"
+#   tier: "silver"

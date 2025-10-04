@@ -1,0 +1,69 @@
+{{ if .Site.Data.sponsors }}
+<style>
+.sponsors {
+    margin: 0 0 5rem 0;
+    text-align: center;
+}
+
+.sponsor-tier {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.sponsor-tier img {
+    max-width: 100%;
+    max-height: auto;
+}
+
+.tier-pinnacle a { max-width: 90%; }              /* 1 across */
+.tier-platinum a { max-width: 45%; }              /* 2 across */
+.tier-gold a, .tier-silver a { max-width: 25%; }  /* 3 across */
+</style>
+<section class="sponsors" aria-label="Event Sponsors">
+    <h3>Our Sponsors</h3>
+    
+    {{ with where .Site.Data.sponsors "tier" "pinnacle" }}
+    <div class="sponsor-tier tier-pinnacle">
+        {{ range . }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+            <img src="{{ .logo }}" alt="{{ .name }}" loading="lazy">
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{ with where .Site.Data.sponsors "tier" "platinum" }}
+    <div class="sponsor-tier tier-platinum">
+        {{ range . }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+            <img src="{{ .logo }}" alt="{{ .name }}" loading="lazy">
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{ with where .Site.Data.sponsors "tier" "gold" }}
+    <div class="sponsor-tier tier-gold">
+        {{ range . }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+            <img src="{{ .logo }}" alt="{{ .name }}" loading="lazy">
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{ with where .Site.Data.sponsors "tier" "silver" }}
+    <div class="sponsor-tier tier-silver">
+        {{ range . }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+            <img src="{{ .logo }}" alt="{{ .name }}" loading="lazy">
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+</section>
+{{ end }}
