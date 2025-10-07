@@ -9,6 +9,6 @@ If you or your company would like to sponsor the event please download our PDF [
 
 ![Sponsorpack Preview](/img/SponsorPackCover.png)
 
-## We'd like to thank our 2026 Sponors:
-![Collabora Online](/img/sponsors/collabora-online-primary.png)
-[Collabora Online](https://www.collaboraonline.com/)
+## We'd like to thank our 2026 sponors:
+[![Collabora Online](/img/sponsors/collabora-online-primary.png)](https://www.collaboraonline.com/)
+### [Collabora Online - Platinum Sponsor](https://www.collaboraonline.com/)
