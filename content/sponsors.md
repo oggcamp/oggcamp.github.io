@@ -7,7 +7,7 @@ Although we keep OggCamp free to attend it does cost a considerable amount of mo
 
 If you or your company would like to sponsor the event please download our PDF [sponsor pack](/files/SponsorPack.pdf) which contains all the details you need.
 
-![Sponsorpack Preview](/img/SponsorPackCover.png)
+[![Sponsorpack Preview](/img/SponsorPackCover.png)](/files/SponsorPack.pdf)
 
 ## We'd like to thank our 2026 sponors:
 [![Collabora Online](/img/sponsors/collabora-online-primary.png)](https://www.collaboraonline.com/)
