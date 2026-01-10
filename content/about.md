@@ -7,4 +7,4 @@ OggCamp is an [unconference](https://en.wikipedia.org/wiki/Unconference) celebra
 
 We'll be back on April 25th - 26th, 2026 at [The Manchester Conference Centre](https://www.openstreetmap.org/way/135912649).
 
-Check our [Fediwall](https://fediwall.social/?load=https://gist.githubusercontent.com/andypiper/324d60e5e45e4aa03f2e071b914182e9/raw/f4ce843b3b2cd57f9c2d4cac2c7816eb6d5e0cb8/oggcamp2024.json) or give this [video](https://www.youtube.com/watch?v=K15PIGuiLKw) a watch!
+Check our [Fediwall](https://fediwall.social/?load=https://gist.githubusercontent.com/andypiper/0c3aa4e8d90c4a706a00ffd9ad70939c/raw/013f1e944bfe53aec0723d290735f05aac1c8e47/oggcamp2026.json) or give this [video](https://www.youtube.com/watch?v=K15PIGuiLKw) a watch!
