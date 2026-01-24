@@ -112,7 +112,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = "https://mastodon.social/@oggcamp"
 [[params.socialIcons]]
   name = "bluesky"
-    url = "https://bsky.app/profile/oggcamp.bsky.social"
+    url = "https://bsky.app/profile/oggcamp.org"
 [[params.socialIcons]]
   name = "x"
     url = "https://twitter.com/oggcamp"
