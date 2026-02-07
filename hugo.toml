@@ -122,6 +122,9 @@ enableEmoji = true
 [[params.socialIcons]]
   name = "irc"
   url = "irc://irc.libera.chat/oggcamp"
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UCs87vY7Zxlw8y2enWr1glqg"
 
 # Cache location required for GH Pages (https://gohugo.io/host-and-deploy/host-on-github-pages/)
 [caches]
