@@ -112,17 +112,11 @@ enableEmoji = true
   name = "bluesky"
   url = "https://bsky.app/profile/oggcamp.org"
 [[params.socialIcons]]
-  name = "x"
-  url = "https://twitter.com/oggcamp"
-[[params.socialIcons]]
   name = "telegram"
   url = "https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A"
 [[params.socialIcons]]
   name = "matrix"
   url = "https://matrix.to/#/#oggcamp:matrix.org"
-[[params.socialIcons]]
-  name = "discord"
-  url = "https://discord.gg/4DcDk6Y"
 [[params.socialIcons]]
   name = "irc"
   url = "irc://irc.libera.chat/oggcamp"
