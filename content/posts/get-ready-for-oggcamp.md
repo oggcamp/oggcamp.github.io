@@ -19,11 +19,7 @@ Doors will open at 9.30am on the Saturday for registration. Please be sure to ha
 
 > Missed getting a ticket? Don't worry! You're still welcome at OggCamp. Please consider making a donation (to help us run the conference in future), which you will be able to do at the merch stand.
 
-<<<<<<< edit-1
 The opening session on the main track is between 10 and 10.30, followed by a talk from our sponsor, Collabora, from 10.30 to 11am. Note that we're aiming to have the main track available as a live stream on [YouTube](https://www.youtube.com/@OggCamp).
-=======
-The opening session on the main track is between 10 and 10.30, followed by a talk from our sponsor, Collabora, from 10.30 to 11.30am. Note that we're aiming to have the main track available as a live stream, details to be announced later.
->>>>>>> main
 
 We're delighted to have a fantastic set of speakers on the scheduled track across both days! However… the key element of OggCamp is that it is an ***Unconference*** - made by *you*, and all the other attendees. Bring along your own topic, and there will be space on The Grid for you to schedule a session. We will not have facilities to record or stream the unconference rooms.
 
