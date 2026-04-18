@@ -1,4 +1,4 @@
-{{ if .Site.Data.sponsors }}
+{{ if hugo.Data.sponsors }}
 <style>
 .sponsors {
     margin: 0 0 5rem 0;
@@ -26,7 +26,7 @@
 <section class="sponsors" aria-label="Event Sponsors">
     <h3>Our Sponsors</h3>
     
-    {{ with where .Site.Data.sponsors "tier" "pinnacle" }}
+    {{ with where hugo.Data.sponsors "tier" "pinnacle" }}
     <div class="sponsor-tier tier-pinnacle">
         {{ range . }}
         <a href="{{ .url }}" target="_blank" rel="noopener">
@@ -35,8 +35,8 @@
         {{ end }}
     </div>
     {{ end }}
-    
-    {{ with where .Site.Data.sponsors "tier" "platinum" }}
+
+    {{ with where hugo.Data.sponsors "tier" "platinum" }}
     <div class="sponsor-tier tier-platinum">
         {{ range . }}
         <a href="{{ .url }}" target="_blank" rel="noopener">
@@ -45,8 +45,8 @@
         {{ end }}
     </div>
     {{ end }}
-    
-    {{ with where .Site.Data.sponsors "tier" "gold" }}
+
+    {{ with where hugo.Data.sponsors "tier" "gold" }}
     <div class="sponsor-tier tier-gold">
         {{ range . }}
         <a href="{{ .url }}" target="_blank" rel="noopener">
@@ -55,8 +55,8 @@
         {{ end }}
     </div>
     {{ end }}
-    
-    {{ with where .Site.Data.sponsors "tier" "silver" }}
+
+    {{ with where hugo.Data.sponsors "tier" "silver" }}
     <div class="sponsor-tier tier-silver">
         {{ range . }}
         <a href="{{ .url }}" target="_blank" rel="noopener">
