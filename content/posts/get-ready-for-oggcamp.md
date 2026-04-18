@@ -25,7 +25,7 @@ We're delighted to have a fantastic set of speakers on the scheduled track acros
 
 On Saturday, around the lunch break:
 
-- There will be an opportunity for a group of OggCamp attendees to visit Kraken - the technology arm of Octopus Energy, based across the road - for a behind-the-scenes view of their systems. We're grateful to the team at Kraken for making this possible!
+- There will be an opportunity for a group of OggCamp attendees to visit Kraken - the technology arm of Octopus Energy, based [across the road](https://share.google/ezLjJPHDBlcsQMBKC) - for a behind-the-scenes view of their systems. We're grateful to the team at Kraken for making this possible!
 - We'll also have time for lightning talks, much shorter quick presentations that may not make sense as a full unconference session.
 
 Full details and arrangements for these activities will be explained during the opening session.
