@@ -52,6 +52,6 @@ The health and safety of attendees is our top priority. Please do not attend the
 
 ## Where to find out more
 
-Be sure to follow OggCamp via our social channels for updates leading up to and during the event. We're primarily using [Mastodon](https://mastodon.social/@oggcamp) and Telegram - there's a [Bluesky](https://bsky.app/profile/oggcamp.org) account as well. Make sure to add `#OggCamp2026` to your social posts - you can see a Fediwall [here](https://wall.lostoutpost.uk/?load=https%3A//gist.githubusercontent.com/andypiper/387d96f7f05c892cc8f28b2368b39517/raw/8da83709d2e42e4d9a9ea63e0fdd4176bd3134c7/wall-config.json), and we'll have something similar on display during the event.
+Be sure to follow OggCamp via our social channels for updates leading up to and during the event. We're primarily using [Mastodon](https://mastodon.social/@oggcamp) and [Telegram](https://t.me/+-v8diXs7ve03Yjk0) - there's a [Bluesky](https://bsky.app/profile/oggcamp.org) account as well. Make sure to add `#OggCamp2026` to your social posts - you can see a Fediwall [here](https://wall.lostoutpost.uk/?load=https%3A//gist.githubusercontent.com/andypiper/387d96f7f05c892cc8f28b2368b39517/raw/8da83709d2e42e4d9a9ea63e0fdd4176bd3134c7/wall-config.json), and we'll have something similar on display during the event.
 
 We look forward to seeing you in Manchester!
