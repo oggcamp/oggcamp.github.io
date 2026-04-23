@@ -16,7 +16,7 @@ While you don't *have* to have a ticket to come to OggCamp, registering helps us
 OggCamp attendees can get a discount on the standard room rate using the code 'DELEGATE', using the instructions below:
 
 - Go to [www.pendulumhotel.co.uk](https://www.pendulumhotel.co.uk) and click book now
-- Click on “Promo code” just above the search bottom and a box will open to enter the code.
+- Click on “Promo code” just above the search button and a box will open to enter the code.
 - Select the date and change the amount of people to your requirements.
 - Then click search and it should show the delegate rate.
 
