@@ -12,7 +12,7 @@ Firstly of course: OggCamp is an *unconference*, so the attendees make the conte
 
 The other thing about being made by the community, is that we need volunteers to help us to run the event!
 
-The **OggCamp Crew** is legendary - the lovely humans who help to make sure that everything is where it is needed, and that folks are safe and happy during the event. We want to make sure that there are enough people in the crew, that they also get time to take part in the sessions that are interested in.
+The **OggCamp Crew** is legendary - the lovely humans who help to make sure that everything is where it is needed, and that folks are safe and happy during the event. We want to make sure that there are enough people in the crew, that they also get time to take part in the sessions they are interested in.
 
 What's involved? Well in general, the crew handles tasks such as greeting arrivals at check-in, helping to run the merchandise stand, being "runners" to support speaker requirements, getting rooms set up, etc.
 

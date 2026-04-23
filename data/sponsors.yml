@@ -3,6 +3,10 @@
   logo: "/img/sponsors/collabora-online-primary.png"
   url: "https://www.collaboraonline.com/"
   tier: "pinnacle"
+# Supporters (no logo, rendered as text)
+- name: "Public Software CIC"
+  url: "https://publicsoftware.eu/"
+  tier: "supporter"
 # Platinum
 # - name: "Platinum Sponsor"
 #   logo: "/img/sponsors/collabora-online-white.png"

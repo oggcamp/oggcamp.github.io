@@ -65,5 +65,14 @@
         {{ end }}
     </div>
     {{ end }}
+
+    {{ with where hugo.Data.sponsors "tier" "supporter" }}
+    <hr style="margin: 1rem auto; width: 60%;">
+    <p class="sponsor-supporters">
+        Thanks also to
+        {{ range $i, $s := . }}{{ if $i }}, {{ end }}<a href="{{ $s.url }}" target="_blank" rel="noopener">{{ $s.name }}</a>{{ end }}
+        for their support.
+    </p>
+    {{ end }}
 </section>
 {{ end }}

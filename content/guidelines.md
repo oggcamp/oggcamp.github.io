@@ -27,7 +27,7 @@ To make sure that everyone gets the right room for their talk it's important tha
 
 Talk slots are 25 minutes long, with 5 minutes between each slot for changeover/moving between rooms. If you need longer you can allocate 2 slots to your talk, which will give a total of 55 minutes. Please ensure you really have enough content to fill 2 slots before booking them. Otherwise you might finish after 20mins and leave a room empty that someone could have used.
 
-When planning your talk make sure you have time to set up anything you need (slides, demos etc) and remember that question time (if you want it) is _included) in those 25 minutes. The room volunteers will stop you when your time is up to allow everyone to get to other talks and the next speaker to set up - you are of course free to chat further with your attendees in the hallway track, or to add a second session to the schedule!
+When planning your talk make sure you have time to set up anything you need (slides, demos etc) and remember that question time (if you want it) is _included_ in those 25 minutes. The room volunteers will stop you when your time is up to allow everyone to get to other talks and the next speaker to set up - you are of course free to chat further with your attendees in the hallway track, or to add a second session to the schedule!
 
 We have people of various ages, genders, races, nationalities and cultures attending OggCamp and we intend to keep it that way. Please consider this when preparing your talk's content. If you can't avoid including content that may be unsuitable for under 18s please indicate this on the schedule and warn people before you start. However racist/homophobic/sexual/etc content isn't welcome under any circumstances. [All talks *must* comply with the Code of Conduct](/code-of-conduct).
 
@@ -39,7 +39,7 @@ If you're planning to demonstrate a system, it may be advisable to video the dem
 
 ## Lightning Talks
 
-There will be a session for Lighting talks again this year. In the past we've had great speed presentations on everything from automated GUI testing, to political activism, to [how the Internet was built](http://www.nathandumont.com/blog/this-jen-is-the-internet).
+There will be a session for Lightning talks again this year. In the past we've had great speed presentations on everything from automated GUI testing, to political activism, to [how the Internet was built](http://www.nathandumont.com/blog/this-jen-is-the-internet).
 
 Lightning Talks will be strictly 5 minutes long, and you'll be allowed to take 1 question at the end. Details of submitting a Lightning Talk will be given on the day.
 
@@ -61,7 +61,7 @@ If you're looking for ideas on talks to propose, some of our talks in prior year
 * How to blame your genes with confidence
 * Law is code, Parliament is Programmers
 * What should I be doing now I am a digital leader at school?
-* Open hardware - Dithing the lawyers so you can get on with making stuff
+* Open hardware - Ditching the lawyers so you can get on with making stuff
 * Cross-platform App Development
 * The evolution of Social Coding
 * Inside the Intercontinental Music Lab

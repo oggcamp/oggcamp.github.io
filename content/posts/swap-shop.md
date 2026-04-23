@@ -21,7 +21,7 @@ Important! Be prepared to take home anything you bring that does not get picked 
 - Electronic & mechanical components
 - Portable hardware, networking gear, spare parts (that old Libreboot ThinkPad from the stack could surely use a new home!)
 
-Items don't necessarily have to be working, but should pass the test of "it's reasonable to imagine someone salvaging/repurposing/reusing this item", Nothing that’s ready for the e-cycler.
+Items don't necessarily have to be working, but should pass the test of "it's reasonable to imagine someone salvaging/repurposing/reusing this item". Nothing that’s ready for the e-cycler.
 
 **Items must also:**
 

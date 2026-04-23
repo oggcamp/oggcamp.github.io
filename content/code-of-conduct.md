@@ -27,7 +27,7 @@ We expect participants to follow these rules at conference and workshop venues a
 
 ## Health & Safety
 
-The COVID-19 pandemic hit the events industry hard as all events have one thing in common: To bring people together. We want to do this in a way that is as safe and inclusive as possible. We want you to have a safe and comfortable experience at OggCamp.
+The COVID-19 pandemic hit the events industry hard, as all events have one thing in common: To bring people together. We want to do this in a way that is as safe and inclusive as possible. We want you to have a safe and comfortable experience at OggCamp.
 
 Since we cannot predict how the situation will be at the event date, the rules & guidelines below may change. We guarantee however, that the rules will only be strengthened, and never weakened.
 
@@ -40,6 +40,8 @@ Below are the current rules & guidelines for OggCamp 2026:
 Furthermore:
 
 - All rooms will be ventilated as best we can during the event.
+- Free FFP2 masks will be available at the event for those who would like them.
+- COVID Lateral Flow Tests will be made available during the event, particularly to those experiencing symptoms.
 
 We will update these rules as required and provide you with additional information as they become available. If you have any questions, concerns or recommendations, please don’t hesitate to reach out to us at contact@oggcamp.org.
 
@@ -51,4 +53,4 @@ If you report an incident by phone, this will be to an organiser. Where possible
 
 This document is based on [Conference Code of Conduct](http://confcodeofconduct.com/) and the [DEF CON Attendee Reported Incident Handling Process](https://www.defcon.org/html/defcon-26/dc-26-news.html#dc26incident) and is licensed under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
-Last Updated: 2026-04-18
+Last Updated: 2026-04-23
