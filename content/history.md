@@ -25,6 +25,8 @@ OggCamp was again at LJMU in Liverpool in 2015. The podcasters panel was re-work
 
 In 2017, the event moved again to a new venue - Canterbury Christ Church University, and the new location brought a new, fresh faced group of attendees. In one interview, the organisers refer to the event as "The Travelling Circus of Unconferences". The live show took on a Question and Answer session, with representation from the Late Night Linux podcast and The Ubuntu Podcast.
 
+OggCamp 2018 was held at Sheffield Hallam, with an "interesting distributed room layout". The folks from Raspberry Pi got involved to run a lot of workshops for youngsters, which took over a whole floor of the event. There was also a legendary talk about TLS, from the inimitable Jon Spriggs. OggCamp was goind strong.
+
 In 2019, OggCamp returned to the north to celebrate our 10th Anniversary at the Manchester Conference Centre! Once again, our podcast panel was chaired by Joe Ressington of the [Late Night Linux Family](https://www.latenightlinux.com), we had live music from Dev Null & The Kernel Panics and we included a dedicated kids track for the first time. We also joined forces with [Flawcon](flawcon.xyz), handing over the keys to one of our talk rooms on Sunday for talks on more security-focused topics.
 
 After a break for "the Event", OggCamp returned in 2024, marking 15 years since doors first opened! You can see what people thought at our [2024 Fediwall](https://fediwall.social/?load=https://gist.githubusercontent.com/andypiper/324d60e5e45e4aa03f2e071b914182e9/raw/f4ce843b3b2cd57f9c2d4cac2c7816eb6d5e0cb8/oggcamp2024.json)
