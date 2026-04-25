@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+{{- $defaultColor := .Site.Params.defaultColor | default "auto" -}}
+{{- if eq $defaultColor "dark" -}}
+<html lang="{{ .Site.LanguageCode }}" class="dark">
+{{- else if eq $defaultColor "light" -}}
+<html lang="{{ .Site.LanguageCode }}" class="light">
+{{- else -}}
+<html lang="{{ .Site.LanguageCode }}">
+{{- end -}}
+{{- partial "head.html" . -}}
+<body data-theme="{{ $defaultColor }}" class="notransition">
+    <div class="wrapper post">
+        <main class="page-content" aria-label="Content">
+            <div class="page-content">
+                {{ .Content }}
+            </div>
+        </main>
+    </div>
+    <script>
+        (function () {
+            // On load, snap to the first text block (first h2)
+            var firstBlock = document.querySelector('h2');
+            if (firstBlock) {
+                window.scrollTo({ top: firstBlock.offsetTop, behavior: 'instant' });
+            }
+
+            // Slowly scroll through the rest of the content, then stop
+            var scrollDelay = 4000;   // ms before starting to scroll
+            var scrollDuration = 8000; // ms to scroll from first block to end
+
+            setTimeout(function () {
+                var start = window.scrollY;
+                var end = document.body.scrollHeight - window.innerHeight;
+                var distance = end - start;
+                if (distance <= 0) return;
+
+                var startTime = null;
+                function step(timestamp) {
+                    if (!startTime) startTime = timestamp;
+                    var elapsed = timestamp - startTime;
+                    var progress = Math.min(elapsed / scrollDuration, 1);
+                    // ease-in-out
+                    var ease = progress < 0.5
+                        ? 2 * progress * progress
+                        : -1 + (4 - 2 * progress) * progress;
+                    window.scrollTo(0, start + distance * ease);
+                    if (progress < 1) requestAnimationFrame(step);
+                }
+                requestAnimationFrame(step);
+            }, scrollDelay);
+        })();
+    </script>
+</body>
+</html>
