@@ -59,10 +59,6 @@ enableEmoji = true
   name = 'Venue'
   url = '/venue/'
   weight = 80
-[[menu.main]]
-  name = 'Tickets'
-  url = 'https://tickets.oggcamp.org/'
-  weight = 90
 
 # Global Site Parameters
 [params]
