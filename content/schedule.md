@@ -8,7 +8,7 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 
 | Date | Time | Room | Session Title | Speaker(s) |
 | :--- | :--- | :--- | :--- | :--- |
-| Saturday (2026-04-25) | 10:30:00 | Main Stage | Sponsor Talk from Collabora Online - Clippy’s Funeral: Why Your Documents Deserve Better | Unconference Speaker. Claim by raising a PR! :-) |
+| Saturday (2026-04-25) | 10:30:00 | Main Stage | [Sponsor Talk from Collabora Online - Clippy’s Funeral: Why Your Documents Deserve Better](https://www.youtube.com/watch?v=dvxmNbpGLY0) | Michael Meeks |
 | Saturday (2026-04-25) | 11:30:00 | Main Stage | [Why I am a tech illiterate but I care about Free Software](https://www.youtube.com/watch?v=8cD-r-ISD9w) | Ana |
 | Saturday (2026-04-25) | 11:30:00 | Unconference 1 | Talk about Smart Home | Unconference Speaker. Claim by raising a PR! :-) |
 | Saturday (2026-04-25) | 11:30:00 | Unconference 2 | Another Book About UNIX | Lee Hanken |
