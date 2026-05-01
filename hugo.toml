@@ -27,7 +27,7 @@ enableEmoji = true
   weight = 20
 [[menu.main]]
   name = 'Schedule'
-  url = 'https://talks.oggcamp.org/oggcamp-2026/schedule/'
+  url = '/schedule/'
   weight = 25
 [[menu.main]]
   pageRef="about"
