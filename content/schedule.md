@@ -1,5 +1,5 @@
 +++
-date = '2026-05-01T08:51:44+01:00'
+date = '2026-05-01T18:01:44+01:00'
 draft = false
 title = 'Schedule'
 +++
@@ -43,10 +43,12 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Sunday (2026-04-26) | 14:30:00 | Unconference 2 | Keeping Open Source Open in Europe | Simon Phipps |
 | Sunday (2026-04-26) | 15:00:00 | Main Stage | [The Yarg Language: Over Engineering a Model Railway Controller](https://www.youtube.com/watch?v=hd-n17yfbqs&pp=0gcJCd4KAYcqIYzv) | John McAleely |
 | Sunday (2026-04-26) | 15:00:00 | Unconference 1 | CCLite2 - Open Source software for mutual social credit/ lets | Unconference Speaker. Claim by raising a PR! :-) |
-| Sunday (2026-04-26) | 15:00:00 | Unconference 2 | Join the AI Resistance! | Unconference Speaker. Claim by raising a PR! :-) |
+| Sunday (2026-04-26) | 15:00:00 | Unconference 2 | Join the AI Resistance! | Martin Hamilton |
 | Sunday (2026-04-26) | 15:30:00 | Main Stage | [The secret lives of OSS designers: Understanding designers contributing to OSS](https://www.youtube.com/watch?v=ZvZH9X-R4Go) | Eriol Fox |
 | Sunday (2026-04-26) | 15:30:00 | Unconference 1 | Polygen | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 15:30:00 | Unconference 2 | Repairing the Unrepairable | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 16:00:00 | Main Stage | [Rebels, Pranksters, and Pioneers: Architects of Digital Freedom](https://www.youtube.com/watch?v=_pXUWZCOOU4) | Tim Gibbon |
 | Sunday (2026-04-26) | 16:00:00 | Unconference 1 | CodeCAD - Make 3D Designs from Code | Jim MacArthur |
 | Sunday (2026-04-26) | 16:00:00 | Unconference 2 | Algorave! | Unconference Speaker. Claim by raising a PR! :-) |
+| Sunday (2026-04-26) | 16:00:00 | Unconference 1 | CodeCAD - Make 3D Designs from Code | Unconference Speaker. Claim by raising a PR! :-) |
+| Sunday (2026-04-26) | 16:00:00 | Unconference 2 | Algorave! | Temporary Autonomous Zone featuring [Pastagang](https://pastagang.cc/) |
