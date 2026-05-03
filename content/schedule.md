@@ -31,7 +31,7 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Saturday (2026-04-25) | 16:30:00 | Unconference 2 | FOSS activity tracking | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 10:30:00 | Main Stage | [Hands on: How to engage Gen Z and Alpha with Free Software](https://www.youtube.com/watch?v=mElhzhkjbzk) | Bonnie Mehring |
 | Sunday (2026-04-26) | 11:00:00 | Main Stage | [Lit Up Art - Further Down The Rabit Hole](https://www.youtube.com/watch?v=DlN4IvZyygY) | Chris Ellis |
-| Sunday (2026-04-26) | 11:00:00 | Unconference 1 | Retro Computing - Birds of a Feather | Unconference Speaker. Claim by raising a PR! :-) |
+| Sunday (2026-04-26) | 11:00:00 | Unconference 1 | Retro Computing - Birds of a Feather | [Tom Chiverton](https://qoto.org/@falken) & [Kian Ryan](https://oldbytes.space/@kianryan) |
 | Sunday (2026-04-26) | 11:30:00 | Main Stage | [UK Digital ID scheme problems aren't just about surveillance](https://www.youtube.com/watch?v=eWIRX4579NY) | James Baker, Ilias |
 | Sunday (2026-04-26) | 11:30:00 | Unconference 1 | Usability in Open Software | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 12:30:00 | Main Stage | [Have you thought about your digital legacy?](https://www.youtube.com/watch?v=T8pKwx-XtcU) | Samuel Margerison, Ian Forrester |
