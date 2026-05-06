@@ -17,7 +17,7 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Saturday (2026-04-25) | 14:00:00 | Main Stage | [Slime, Slop and Sabotage](https://www.youtube.com/watch?v=hvQQPyYluEI) | Martin Hamilton |
 | Saturday (2026-04-25) | 14:00:00 | Unconference 1 | Embedded RUST | Unconference Speaker. Claim by raising a PR! :-) |
 | Saturday (2026-04-25) | 14:00:00 | Unconference 2 | Bioplastics are hard | Unconference Speaker. Claim by raising a PR! :-) |
-| Saturday (2026-04-25) | 14:30:00 | Unconference 2 | Self-hosted observability. Grafana, Prometheus, Mimir, Docker | Unconference Speaker. Claim by raising a PR! :-) |
+| Saturday (2026-04-25) | 14:30:00 | Unconference 2 | Self-hosted observability. Grafana, Prometheus, Mimir, Docker | Alan Ionita |
 | Saturday (2026-04-25) | 15:00:00 | Main Stage | [What Is an Engineering Office (and why??)](https://www.youtube.com/watch?v=KQdlT6mmPQQ) | graham briggs |
 | Saturday (2026-04-25) | 15:00:00 | Unconference 1 | Adventures in open source game dev | Unconference Speaker. Claim by raising a PR! :-) |
 | Saturday (2026-04-25) | 15:00:00 | Unconference 2 | Battling obsolescence - keeping an 80s laser tag system alive | Unconference Speaker. Claim by raising a PR! :-) |
@@ -28,7 +28,7 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Saturday (2026-04-25) | 16:00:00 | Unconference 1 | Neurodivergent whistle blowing against big tech | Unconference Speaker. Claim by raising a PR! :-) |
 | Saturday (2026-04-25) | 16:00:00 | Unconference 2 | Changing how we Match, Meet, & Date using ethics and FLOSS | Unconference Speaker. Claim by raising a PR! :-) |
 | Saturday (2026-04-25) | 16:30:00 | Main Stage | [Infrastructure as Code is Cool](https://www.youtube.com/watch?v=ZqgQivxR1m4) | Charlie O'Hara |
-| Saturday (2026-04-25) | 16:30:00 | Unconference 2 | FOSS activity tracking | Unconference Speaker. Claim by raising a PR! :-) |
+| Saturday (2026-04-25) | 16:30:00 | Unconference 2 | FOSS activity tracking | Alan Ionita |
 | Sunday (2026-04-26) | 10:30:00 | Main Stage | [Hands on: How to engage Gen Z and Alpha with Free Software](https://www.youtube.com/watch?v=mElhzhkjbzk) | Bonnie Mehring |
 | Sunday (2026-04-26) | 11:00:00 | Main Stage | [Lit Up Art - Further Down The Rabit Hole](https://www.youtube.com/watch?v=DlN4IvZyygY) | Chris Ellis |
 | Sunday (2026-04-26) | 11:00:00 | Unconference 1 | Retro Computing - Birds of a Feather | [Tom Chiverton](https://qoto.org/@falken) & [Kian Ryan](https://oldbytes.space/@kianryan) |
