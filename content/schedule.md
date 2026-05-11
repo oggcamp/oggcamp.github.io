@@ -11,7 +11,7 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Saturday (2026-04-25) | 10:30:00 | Main Stage | [Sponsor Talk from Collabora Online - Clippy’s Funeral: Why Your Documents Deserve Better](https://www.youtube.com/watch?v=dvxmNbpGLY0) | Michael Meeks |
 | Saturday (2026-04-25) | 11:30:00 | Main Stage | [Why I am a tech illiterate but I care about Free Software](https://www.youtube.com/watch?v=8cD-r-ISD9w) | Ana |
 | Saturday (2026-04-25) | 11:30:00 | Unconference 1 | Come chat about your smart home (Home Assistant, Zigbee, Matter) | [William Morland](https://williammorland.com) |
-| Saturday (2026-04-25) | 11:30:00 | Unconference 2 | Another Book About UNIX | Lee Hanken |
+| Saturday (2026-04-25) | 11:30:00 | Unconference 2 | Another [Book About UNIX](https://book.hanken.click/) (My contribution to the slop economy) | [Lee Hanken](https://github.com/macsplit) |
 | Saturday (2026-04-25) | 12:00:00 | Main Stage | ["No Connection, No Chance" - Helping the 1 in 10 to beat digital exclusion](https://www.youtube.com/watch?v=BvZdkRQhgQc) | Jon Spriggs |
 | Saturday (2026-04-25) | 12:30:00 | Main Stage | [Cooklang: markup language for recipes](https://www.youtube.com/watch?v=3uYmduWuhNk) | Alex Dubowski |
 | Saturday (2026-04-25) | 14:00:00 | Main Stage | [Slime, Slop and Sabotage](https://www.youtube.com/watch?v=hvQQPyYluEI) | Martin Hamilton |
