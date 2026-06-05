@@ -39,7 +39,7 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Sunday (2026-04-26) | 14:00:00 | Unconference 1 | Can systemd be broken? | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 14:00:00 | Unconference 2 | Home (security) Assistant | Millie Perkins |
 | Sunday (2026-04-26) | 14:30:00 | Main Stage | [Music and Freedom](https://www.youtube.com/watch?v=bW2-W3tlZoQ) | Tom Chiverton |
-| Sunday (2026-04-26) | 14:30:00 | Unconference 1 | XMPP: Instant Messaging that works like email | Unconference Speaker. Claim by raising a PR! :-) |
+| Sunday (2026-04-26) | 14:30:00 | Unconference 1 | [XMPP: Instant Messaging that works like email](https://pt.gogreenit.net/w/7YzvYkDJVM1e5FcmnCpqkj) | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 14:30:00 | Unconference 2 | Keeping Open Source Open in Europe | Simon Phipps |
 | Sunday (2026-04-26) | 15:00:00 | Main Stage | [The Yarg Language: Over Engineering a Model Railway Controller](https://www.youtube.com/watch?v=hd-n17yfbqs&pp=0gcJCd4KAYcqIYzv) | John McAleely |
 | Sunday (2026-04-26) | 15:00:00 | Unconference 1 | CCLite2 - Open Source software for mutual social credit/ lets | Unconference Speaker. Claim by raising a PR! :-) |
