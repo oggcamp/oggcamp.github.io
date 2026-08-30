@@ -31,14 +31,14 @@ Below is a static copy of the OggCamp 2026 Schedule with links to the recordings
 | Saturday (2026-04-25) | 16:30:00 | Unconference 2 | FOSS activity tracking | Alan Ionita |
 | Sunday (2026-04-26) | 10:30:00 | Main Stage | [Hands on: How to engage Gen Z and Alpha with Free Software](https://www.youtube.com/watch?v=mElhzhkjbzk) | Bonnie Mehring |
 | Sunday (2026-04-26) | 11:00:00 | Main Stage | [Lit Up Art - Further Down The Rabit Hole](https://www.youtube.com/watch?v=DlN4IvZyygY) | Chris Ellis |
-| Sunday (2026-04-26) | 11:00:00 | Unconference 1 | Retro Computing - Birds of a Feather | [Tom Chiverton](https://qoto.org/@falken) & [Kian Ryan](https://oldbytes.space/@kianryan) |
+| Sunday (2026-04-26) | 11:00:00 | Unconference 1 | Retro Computing - Birds of a Feather | [Tom Chiverton](https://social.falkensweb.com/@falken) & [Kian Ryan](https://oldbytes.space/@kianryan) |
 | Sunday (2026-04-26) | 11:30:00 | Main Stage | [UK Digital ID scheme problems aren't just about surveillance](https://www.youtube.com/watch?v=eWIRX4579NY) | James Baker, Ilias |
 | Sunday (2026-04-26) | 11:30:00 | Unconference 1 | Usability in Open Software | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 12:30:00 | Main Stage | [Have you thought about your digital legacy?](https://www.youtube.com/watch?v=T8pKwx-XtcU) | Samuel Margerison, Ian Forrester |
 | Sunday (2026-04-26) | 14:00:00 | Main Stage | [Making Minecraft maps with science!](https://www.youtube.com/watch?v=T-QcUlJHVac) | Michael Dales |
 | Sunday (2026-04-26) | 14:00:00 | Unconference 1 | Can systemd be broken? | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 14:00:00 | Unconference 2 | Home (security) Assistant | Millie Perkins |
-| Sunday (2026-04-26) | 14:30:00 | Main Stage | [Music and Freedom](https://www.youtube.com/watch?v=bW2-W3tlZoQ) | Tom Chiverton |
+| Sunday (2026-04-26) | 14:30:00 | Main Stage | [Music and Freedom](https://www.youtube.com/watch?v=bW2-W3tlZoQ) | [Tom Chiverton](https://social.falkensweb.com/@falken) |
 | Sunday (2026-04-26) | 14:30:00 | Unconference 1 | [XMPP: Instant Messaging that works like email](https://pt.gogreenit.net/w/7YzvYkDJVM1e5FcmnCpqkj) | Unconference Speaker. Claim by raising a PR! :-) |
 | Sunday (2026-04-26) | 14:30:00 | Unconference 2 | Keeping Open Source Open in Europe | Simon Phipps |
 | Sunday (2026-04-26) | 15:00:00 | Main Stage | [The Yarg Language: Over Engineering a Model Railway Controller](https://www.youtube.com/watch?v=hd-n17yfbqs&pp=0gcJCd4KAYcqIYzv) | John McAleely |
