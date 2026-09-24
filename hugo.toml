@@ -1,5 +1,5 @@
 baseURL = 'https://oggcamp.github.io/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'OggCamp 2026'
 
 # This defines how dates are formatted
@@ -10,7 +10,7 @@ enableEmoji = true
 # Load Theme Module
 [module]
   [[module.imports]]
-    path = "github.com/hugo-sid/hugo-blog-awesome"
+    path = "github.com/hugo-sid/hugo-blog-awesome/v2"
 # Main Menu (navbar)
 [menu]
 [[menu.main]]
